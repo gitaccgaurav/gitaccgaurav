@@ -22,7 +22,7 @@
 
 - 📈 ML fundamentals: linear/logistic regression, neural nets, and evaluation
 - 🛠️ Implementing algorithms from scratch before reaching for libraries
-- 🚀 *[Add a current project here]*
+  
 
 ---
 
