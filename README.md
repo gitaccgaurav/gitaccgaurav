@@ -72,6 +72,6 @@
 
 *Always happy to chat about AI/ML, study resources, or collaborating on beginner-friendly projects.* 🤝
 
-[![Profile views](https://komarev.com/ghpvc/?username=gitaccgaurav&style=for-the-badge&color=2F81F7)](https://visitcount.itsvg.in)
+
 
 </div>
