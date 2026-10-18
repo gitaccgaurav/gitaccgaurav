@@ -65,14 +65,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitaccgaurav&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitaccgaurav&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
